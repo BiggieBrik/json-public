@@ -5,7 +5,8 @@
     "image": "https://raw.githubusercontent.com/BiggieBrik/json-public/main/sol/image.png",
     "attributes": [
       {
-        "pray1": "always1"
+        "pray1": "always1",
+        "zekat": "always"
       }
     ]
 }
