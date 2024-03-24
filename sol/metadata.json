@@ -3,13 +3,12 @@
     "symbol": "RABI",
     "description": "Rabi Yessir forever.",
     "image": "https://raw.githubusercontent.com/BiggieBrik/json-public/main/sol/image.png",
-    "attributes": [
-      {
-        "pray1": "always1",
-        "zekat": "always",
-        "hajj": "always",
-        "fasting": "always",
-        "shahada": "always"
-      }
+    "creator": [
+        {
+            "name": "BiggieBrik",
+            "address": "BGuTS2LvaN3RQcsfffx5rMTPynNrN9bPK5Sjks6imipE",
+            "website": "https://github.com/BiggieBrik"
+        }
+
     ]
 }
