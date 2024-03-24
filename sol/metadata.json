@@ -6,7 +6,10 @@
     "attributes": [
       {
         "pray1": "always1",
-        "zekat": "always"
+        "zekat": "always",
+        "hajj": "always",
+        "fasting": "always",
+        "shahada": "always"
       }
     ]
 }
