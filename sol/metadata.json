@@ -2,10 +2,5 @@
     "name": "Rabi Yessirr",
     "symbol": "RABI",
     "description": "Rabi Yessir forever.",
-    "image": "https://raw.githubusercontent.com/BiggieBrik/json-public/main/sol/image.png",
-    "attributes": [
-      {
-        "pray": "always"
-      }
-    ]
+    "image": "https://raw.githubusercontent.com/BiggieBrik/json-public/main/sol/image.png"
 }
