@@ -1,8 +1,8 @@
 {
-    "name": "Blue Blanket",
-    "symbol": "BNKT",
+    "name": "Blue Blankets",
+    "symbol": "BNKZ",
     "description": "I am a blue blanket.",
-    "image": "https://raw.githubusercontent.com/BiggieBrik/json-public/main/sol/image.png",
+    "image": "https://raw.githubusercontent.com/BiggieBrik/json-public/main/sol/pictures/blueBlanket.png",
     "creator": [
         {
             "name": "BiggieBrik",
