@@ -3,11 +3,8 @@
     "symbol": "BRK",
     "description": "We are jsut briks.",
     "image": "https://raw.githubusercontent.com/BiggieBrik/json-public/main/sol/pictures/blueBlanket.png",
-    "creator": [
-        {
-            "name": "BiggieBrik",
-            "address": "BGuTS2LvaN3RQcsfffx5rMTPynNrN9bPK5Sjks6imipE",
-            "website": "https://github.com/BiggieBrik"
-        }
-    ]
+    "creator": {
+        "name": "BiggieBrik",
+        "site": "https://github.com/BiggieBrik"
+    }
 }
