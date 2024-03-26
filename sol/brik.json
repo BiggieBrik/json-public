@@ -1,13 +1,13 @@
 {
-    "name": "Ahmed Amin",
-    "symbol": "AMINT",
-    "description": "Busted.",
-    "image": "https://raw.githubusercontent.com/BiggieBrik/json-public/main/sol/pictures/Amin.png",
+    "name": "Biggie Brik",
+    "symbol": "BRIK",
+    "description": "just another brik.",
+    "image": "https://raw.githubusercontent.com/BiggieBrik/json-public/main/sol/brik.png",
     "creator": {
         "name": "BiggieBrik",
         "site": "https://github.com/BiggieBrik"
     },
-    "Twitter": "SYR",
-    "Telegram": "Treason in spying for the enemy",
-    "Discord": "Death by hanging"
+    "Twitter": "https://twitter.com/BiggieBrik",
+    "Githubs": "https://github.com/BiggieBrik",
+    "Discord": "biggiebrik"
 }
